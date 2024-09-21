@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 – Questão 1</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f9;
+        }
+        p {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <p>
+        O Canadá é um país fascinante que se destaca por sua diversidade cultural, paisagens deslumbrantes e qualidade de vida excepcional. Com cidades vibrantes como Toronto e Vancouver, oferecendo inúmeras oportunidades de trabalho e estudo. O sistema educacional canadense é reconhecido mundialmente, atraindo estudantes de diversas partes do globo. Além disso, a natureza exuberante, com suas montanhas, lagos e florestas, proporciona um ambiente ideal para explorar e viver experiências únicas. Trabalhar ou estudar no Canadá é um sonho para muitos, devido à sua sociedade acolhedora e estrutura social bem estabelecida.
+    </p>
+</body>
+</html>
+
+Exercício 2
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 - Questão 2</title>
+    <meta name="description" content="exercício">
+    <meta name="author" content="Marcelo de Souza Moura Junior">
+    <meta name="keywords" content="programação, aprendizado, aplicativo, tecnologia, educação">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        p {
+            color: #333;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <p>
+        O aplicativo "Grasshopper" é um aplicativo de aprendizado de programação com foco em JavaScript. O software é gratuito e está disponível para Android e iOS. Para facilitar os exercícios, ele traz um sistema de editor de códigos que basta arrastar e soltar, além de uma interface amigável; bem prático para quem está começando. Com este app, você aprende o básico de JavaScript, como funções, variáveis e métodos.
+    </p>
+</body>
+</html>
+
+
+Exercício 3
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 - Questão 3</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #255;
+        }
+        h2 {
+            color: #555;
+        }
+        p {
+            color: #666;
+            line-height: 1.6;
+        }
+        ul {
+            list-style-type: square;
+            margin: 20px 0;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lista 1 - Questão 3</h1>
+    </header>
+    <main>
+        <h2>Diferença entre Linguagem de Programação Server Side e Client Side</h2>
+        <p>
+            As linguagens de programação podem ser classificadas em dois grupos principais: Server Side e Client Side. 
+            As linguagens Server Side são executadas no servidor, gerenciando a lógica de negócios e interagindo com bancos de dados. 
+            Exemplos incluem PHP, Python, Ruby e Java. 
+            Por outro lado, linguagens Client Side são executadas no navegador do usuário, proporcionando interatividade e manipulação de interfaces. 
+            O exemplo mais comum é JavaScript.
+        </p>
+        <h2>Exemplos de Linguagens Server Side:</h2>
+        <ul>
+            <li>PHP</li>
+            <li>Python (Django, Flask)</li>
+            <li>Ruby (Ruby on Rails)</li>
+            <li>Java (Spring, Java EE)</li>
+        </ul>
+        <h2>Exemplos de Linguagens Client Side:</h2>
+        <ul>
+            <li>JavaScript</li>
+            <li>TypeScript</li>
+            <li>Dart (quando usado com Flutter para web)</li>
+        </ul>
+    </main>
+</body>
+</html>
+
+Exercício 4
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 - Questão 4</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', sans-serif;
+            background-color: #e9ecef;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 15px 0;
+            text-align: center;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #343a40;
+        }
+        p {
+            color: #495057;
+            line-height: 1.6;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lista 1 - Questão 4</h1>
+    </header>
+    <main>
+        <section>
+            <h2>O que é Semântica?</h2>
+            <p>
+                Semântica refere-se ao significado ou interpretação das palavras e frases em um contexto específico. 
+                Em programação, especialmente em HTML5, semântica se refere ao uso de elementos de forma que 
+                reflitam de maneira clara o propósito e a estrutura do conteúdo apresentado.
+            </p>
+        </section>
+        <section>
+            <h2>Importância da Semântica em HTML5</h2>
+            <p>
+                A semântica é crucial em HTML5 porque melhora a acessibilidade, SEO e a compreensão do conteúdo por parte de diferentes usuários e dispositivos. 
+                Tags semânticas como <code>&lt;header&gt;</code>, <code>&lt;article&gt;</code>, e <code>&lt;footer&gt;</code> fornecem significado aos elementos 
+                da página, permitindo que navegadores e mecanismos de busca entendam melhor a estrutura e o conteúdo do documento.
+            </p>
+        </section>
+    </main>
+</body>
+</html>
+
+Exercício 5
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 – Questão 5</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .continent {
+            margin-top: 20px;
+        }
+        h1, h2, h3 {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Países e suas Bandeiras</h1>
+    
+    <div class="continent">
+        <h2>América do Sul</h2>
+        <h3><a href="https://pt.wikipedia.org/wiki/Brasil" target="_blank">Brasil</a></h3>
+        <a href="https://pt.wikipedia.org/wiki/Brasil" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="100">
+        </a>
+    </div>
+    
+    <div class="continent">
+        <h2>Europa</h2>
+        <h3><a href="https://pt.wikipedia.org/wiki/França" target="_blank">França</a></h3>
+        <a href="https://pt.wikipedia.org/wiki/França" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="Bandeira da França" width="100">
+        </a>
+    </div>
+    
+    <div class="continent">
+        <h2>Europa</h2>
+        <h3><a href="https://pt.wikipedia.org/wiki/Jap%C3%A3o" target="_blank">Holanda</a></h3>
+        <a href="https://pt.wikipedia.org/wiki/Jap%C3%A3o" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/255px-Flag_of_the_Netherlands.svg.png" alt="Bandeira do Japão" width="100">
+        </a>
+    </div>
+    
+    <div class="continent">
+        <h2>África</h2>
+        <h3><a href="https://pt.wikipedia.org/wiki/África_do_Sul" target="_blank">África do Sul</a></h3>
+        <a href="https://pt.wikipedia.org/wiki/África_do_Sul" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg" alt="Bandeira da África do Sul" width="100">
+        </a>
+    </div>
+    
+    <div class="continent">
+        <h2>Oceania</h2>
+        <h3><a href="https://pt.wikipedia.org/wiki/Austr%C3%A1lia" target="_blank">Austrália</a></h3>
+        <a href="https://pt.wikipedia.org/wiki/Austr%C3%A1lia" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg" alt="Bandeira da Austrália" width="100">
+        </a>
+    </div>
+</body>
+</html>
